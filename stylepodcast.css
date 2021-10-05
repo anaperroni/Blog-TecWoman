@@ -1,0 +1,56 @@
+body {
+background: #fff678;
+font-family: Lucida;
+text-align: center;
+font-size: 28px;
+margin: auto;
+max-width: auto;
+
+}
+
+.borda {
+    background: white;
+    border: 3px solid black;
+    border-radius: 10px;
+    list-style-image: auto;
+    font-family: Lucida;
+    max-width: 1300px;
+    margin: auto;
+    padding: 15px;
+}
+
+.lista {
+    font-family: Lucida;
+    font-size: 40px;
+    text-align: center;
+}
+
+.conteudo {
+    text-align: justify;
+    margin-bottom: 15px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
